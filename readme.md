@@ -4,9 +4,9 @@
 
 ## Over
 * **Naam:** `Margot Strobbe`
-* **Klas:** `vid-1/vid-2`
+* **Klas:** `vid-1B`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Mik met één oor`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
