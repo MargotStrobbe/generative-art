@@ -35,7 +35,9 @@ Vervolgens heb ik mijn eigenschappen gemengd met het retroconcept.
 Bijvoorbeeld: Neon gedimd is liever en vriendelijker dan het felle neon licht, dat is veel harder en rouwer. 
 Gebruik maken van transparantie met licht. Dus fel en minder fel. 
 
-Toen heb ik nagedacht over de input van de gebruiker. Ik heb deze week een trackpad op de kop getickt via Marktplaats (voor maar 30 euro!!) en dit bracht mij op een idee. Ik wil de gebruiker input laten geven door gebruik te maken van een trackpad. Bijvoorbeeld naar rechts draaien dan wordt het licht feller en naar links draaien maakt het licht zachter
+Toen heb ik nagedacht over de input van de gebruiker. Ik heb deze week een trackpad op de kop getikt via Marktplaats (voor maar 30 euro!!) en dit bracht mij op een idee. Ik wil de gebruiker input laten geven door gebruik te maken van een trackpad. Bijvoorbeeld naar rechts draaien dan wordt het licht feller en naar links draaien maakt het licht zachter.
+
+Vervolgens ben ik p5 gaan ontdekken.. Lang leve YouTube! 
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
