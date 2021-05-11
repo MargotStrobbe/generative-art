@@ -40,14 +40,31 @@ Toen heb ik nagedacht over de input van de gebruiker. Ik heb deze week een track
 Vervolgens ben ik p5 gaan ontdekken.. Lang leve YouTube! 
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Deze week heb ik mij voornamelijk gericht op het uitproberen en oefenen met Javascript. Ik heb in mijn p5 account allemaal verschillende documenten aangemaakt, zodat ik alles kon opslaan. Ik heb aan de hand van video's op YouTube en de Examples van p5 verschillende elementen kunnen vormgeven en mijn eigen draai er aan kunnen geven.
+Daarna ben ik er ook achter gekomen dat ik het nog niet zo makkelijk vind om van mijn creative ideeën een artwork te maken aan de hand van codes. 
 
 ### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+In de derde week ben ik weer verder gegaan met 'klooien', totdat ik alles met elkaar wilde combineren. Ik raakte lichtelijk gefrustreerd en ik heb mijn code de rest van de week niet aangeraakt :(. Ik heb feedback ontvangen van Danny over mijn concept. Hij gaf aan dat ik mij moest focussen op bepaalde elementen in JS: 
+- Neon style, opacity, hue, lightness, box shadow
+- Rustige> Ruige / Chaos doormiddel van interactie
+
+### Week-4
+Deze week heb ik opnieuw mijn code geopend en ik heb geoefend met het de random fuctie in p5. Uiteindelijk begrijp ik nu het principe, hoewel ik het wederom lastig vind om dit te combineren met alle andere mogelijkheden. 
+
+### Week-5
+Deze week is het roer om gegaan. Ik liep enorm vast met mijn artwork, dus ik ben terug gegaan naar mijn concept. Ik verdwaalde in alle mogelijkheden en alle opties. Mijn doel is om gebruik te maken van neon kleuren en de gebruiker de mogelijkheid geven om zelf te bepalen hoeveel en wat hij kan zien. 
+Vervolgens ben ik beelden gaan verzamelen die aansluiten bij het thema. Aan de hand van pixels en de kleuren die de pixels hebben heb ik een beeld vormgegeven. Vervolgens heb ik uitgezocht hoe ik ervoor kan zorgen dat de beelden random worden getoond. 
+Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het heel lastig vind om bepaalde codes met elkaar te combineren. 
+
+### Week-6
+
+### Week-7
 
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+* https://www.youtube.com/watch?v=me04ZrTJqWA
+* https://www.youtube.com/watch?v=hxjEl-pun7o
+* https://www.youtube.com/watch?v=x1rJJRVTpAI
+* https://www.youtube.com/watch?v=1YjybCS4B2U
+* https://p5js.org/reference/
