@@ -68,3 +68,5 @@ Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het heel lasti
 * https://www.youtube.com/watch?v=x1rJJRVTpAI
 * https://www.youtube.com/watch?v=1YjybCS4B2U
 * https://p5js.org/reference/
+* https://p5js.org/reference/#/p5/map
+* 
