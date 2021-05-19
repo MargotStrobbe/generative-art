@@ -20,6 +20,10 @@ Ik wil in mijn artwork gebruik maken van het feit dat ik mij in verschillende si
 
 # Features
 Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?
+Het artwork is gebaseerd op neon kleuren. 
+De achtergrond is een feestje, er zijn verschillende kleuren in de vorm van een draaiende LP hoes te zien.
+Op de hoes is iedere keer een andere foto te zien, dit wordt random bepaald bij het refreshen van de pagina. 
+Door te scrollen kan de gebruiker zelf bepalen hoeveel fun hij/zij kan zien. De strokes worden zwaarder waardoor de gebruiker de pixels van de afbeeldingen kan vergroten en verleinen! De intensiteit van het artwork wordt vergroot, maar zodra de gebruiker terug scrollt is hij terug bij het rustige beeld. Zo kan je zelf bepalen wat je wilt zien en ik welke mate. 
 
 
 # Onderzoek & inspiratie
@@ -67,6 +71,9 @@ Onder op de hoes staan letters en een aanwijzing voor de gebruiker. Danny heeft 
 Ik kan zeker zeggen dat ik heel trots ben op mijn ontwikkeling en het eindproduct!
 Via onderstaande link kun je mijn generative artwork zien!
 https://margotstrobbe.github.io/generative-art/
+
+Via onderstaande link kun je de code via p5 zien!
+https://editor.p5js.org/MargotStrobbe/sketches/XQN7mnqSW
 
 
 # Bronnenlijst
