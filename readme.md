@@ -12,16 +12,15 @@
 **Startniveau:** Ik weet niet wat voor kleur mijn startniveau is, maar ik weet wel dat ik een beginnende nerd ben.
 
 # Concept
-Ieder mens heeft meerdere eigenschappen, twee van mijn eigeschappen zijn lief en stoer. Ik ben eigenlijk altijd lief, maar niet altijd stoer. Een leuk voorbeeld:
-
+Ieder mens heeft meerdere eigenschappen, twee van mijn eigeschappen zijn lief en stoer. Ik ben eigenlijk altijd lief, maar niet altijd stoer. 
+Een leuk voorbeeld:
 Als ik aan tafel zit te schetsen, dan ben ik lief maar niet zo stoer.
 Als ik aan het rugby trainen ben, dan ben ik nog steeds lief, maar ook stoer.
+
 Ik wil in mijn artwork gebruik maken van het feit dat ik mij in verschillende situaties ander kan gedragen. Vaak kan ik zelf bepalen hoe ik mij gedraag, maar niet altijd. Daarnaast ga ik op stijlen van vroeger best wel lekker, denk hierbij aan kleding, kapsels, muziek en kunst. Dit wil ik graag meenemen in mijn artwork. Ik heb ervoor gekozen om dit te doen door gebruik te maken van neon. Waarom? Omdat ik neon associeer met de retro stijl die ik in gedachten heb. Daarnaast vind ik neon bij mijn eigenschappen passen, omdat het kan opvallen als je dat wilt, maar als je dat niet wilt dan hoeft het niet.
 
 # Features
-Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?
-Het artwork is gebaseerd op neon kleuren. 
-De achtergrond is een feestje, er zijn verschillende kleuren in de vorm van een draaiende LP hoes te zien.
+Het artwork is gebaseerd op neon kleuren. De achtergrond is een feestje, er zijn verschillende kleuren in de vorm van de draaiende LP hoes te zien.
 Op de hoes is iedere keer een andere foto te zien, dit wordt random bepaald bij het refreshen van de pagina. 
 Door te scrollen kan de gebruiker zelf bepalen hoeveel fun hij/zij kan zien. De strokes worden zwaarder waardoor de gebruiker de pixels van de afbeeldingen kan vergroten en verleinen! De intensiteit van het artwork wordt vergroot, maar zodra de gebruiker terug scrollt is hij terug bij het rustige beeld. Zo kan je zelf bepalen wat je wilt zien en ik welke mate. 
 
