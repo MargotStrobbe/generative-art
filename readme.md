@@ -47,19 +47,25 @@ Daarna ben ik er ook achter gekomen dat ik het nog niet zo makkelijk vind om van
 Ondertussen heb ik al veel verschillde documenten geopend in mijn p5 account. In ieder document is een aparte functie te zien. Ik weet nog niet hoe ik dit allemaal met elkaar kan combineren, maar ik ben wel heel blij dat het lukt om iets op het beeld te krijgen!
 
 ### Week-3
-In de derde week ben ik weer verder gegaan met 'klooien', totdat ik alles met elkaar wilde combineren. Ik raakte lichtelijk gefrustreerd en ik heb mijn code de rest van de week niet aangeraakt :(. Ik heb feedback ontvangen van Danny over mijn concept. Hij gaf aan dat ik mij moest focussen op bepaalde elementen in JS: 
+In de derde week ben ik weer verder gegaan met 'klooien', totdat ik alles met elkaar wilde combineren. Ik raakte lichtelijk gefrustreerd en ik heb mijn code de rest van de week niet aangeraakt 🦖. 
+Later deze week heb ik feedback ontvangen van Danny over mijn concept. Hij gaf aan dat mijn concept goed is, maar dat ik mij moest focussen op bepaalde elementen in p5: 
 - Neon style, opacity, hue, lightness, box shadow
 - Rustige> Ruige / Chaos doormiddel van interactie
 
+Dit is zeker nuttige feedback! Ik had het namelijk voor elkaar gekregen om een soort dansvloer te maken met een discoball die van kleur veranderd en vergroot wordt door te scrollen: https://editor.p5js.org/MargotStrobbe/sketches/u39YV-WKU 
+Ik vond het leuk dat het werkte, maar het was niet helemaal wat ik in gedachten had..
+
 ### Week-4
-Deze week heb ik opnieuw mijn code geopend en ik heb geoefend met het de random fuctie in p5. Uiteindelijk begrijp ik nu het principe, hoewel ik het wederom lastig vind om dit te combineren met alle andere mogelijkheden. 
+Deze week heb ik opnieuw mijn code geopend en ik heb geoefend met het de random fuctie in p5. Uiteindelijk begrijp ik nu het principe, hoewel ik het wederom lastig vind om dit te combineren met alle andere mogelijkheden. Ik heb weer verschillende documenten geopend om daarin te oefenen met de codes.
 
 ### Week-5
 Deze week is het roer om gegaan. Ik liep enorm vast met mijn artwork, dus ik ben terug gegaan naar mijn concept. Ik verdwaalde in alle mogelijkheden en alle opties. Mijn doel is om gebruik te maken van neon kleuren en de gebruiker de mogelijkheid geven om zelf te bepalen hoeveel en wat hij kan zien. 
-Vervolgens ben ik beelden gaan verzamelen die aansluiten bij het thema. Aan de hand van pixels en de kleuren die de pixels hebben heb ik een beeld vormgegeven. Vervolgens heb ik uitgezocht hoe ik ervoor kan zorgen dat de beelden random worden getoond. 
-Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het heel lastig vind om bepaalde codes met elkaar te combineren. 
+Vervolgens ben ik beelden gaan verzamelen die aansluiten bij het thema. Aan de hand van pixels en de kleuren die de pixels hebben heb ik een beeld vormgegeven. Vervolgens heb ik uitgezocht hoe ik ervoor kan zorgen dat de beelden random worden getoond. Ook dit lukte mij, maar wel in een apart document. 
+Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het nog steeds heel lastig vind om de codes met elkaar te combineren. 
 
-### Week-6
+Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten kreeg ik de feedback dat mijn idee heel leuk is, alleen de uitwerking nog niet voldoende was. Hier ben ik het helemaal mee eens
+
+### Week-6 en de rest
 
 ### Week-7
 
