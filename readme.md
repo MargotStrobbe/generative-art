@@ -44,6 +44,8 @@ Vervolgens ben ik p5 gaan ontdekken.. Lang leve het internet!
 Deze week heb ik mij voornamelijk gericht op het uitproberen en oefenen met p5. Ik heb in mijn p5 account allemaal verschillende documenten aangemaakt, zodat ik alles kon opslaan. Ik heb aan de hand van video's op YouTube en de Examples van p5 verschillende elementen kunnen vormgeven en mijn eigen draai er aan kunnen geven.
 Daarna ben ik er ook achter gekomen dat ik het nog niet zo makkelijk vind om van mijn creative ideeën een artwork te maken aan de hand van codes. 
 
+Ondertussen heb ik al veel verschillde documenten geopend in mijn p5 account. In ieder document is een aparte functie te zien. Ik weet nog niet hoe ik dit allemaal met elkaar kan combineren, maar ik ben wel heel blij dat het lukt om iets op het beeld te krijgen!
+
 ### Week-3
 In de derde week ben ik weer verder gegaan met 'klooien', totdat ik alles met elkaar wilde combineren. Ik raakte lichtelijk gefrustreerd en ik heb mijn code de rest van de week niet aangeraakt :(. Ik heb feedback ontvangen van Danny over mijn concept. Hij gaf aan dat ik mij moest focussen op bepaalde elementen in JS: 
 - Neon style, opacity, hue, lightness, box shadow
