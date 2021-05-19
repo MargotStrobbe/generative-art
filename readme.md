@@ -50,7 +50,7 @@ Deze week heb ik opnieuw mijn code geopend en ik heb geoefend met het de random 
 ## Week-5
 Deze week is het roer om gegaan. Ik liep enorm vast met mijn artwork, dus ik ben terug gegaan naar mijn concept. Ik verdwaalde in alle mogelijkheden en alle opties. Mijn doel is om gebruik te maken van neon kleuren en de gebruiker de mogelijkheid geven om zelf te bepalen hoeveel en wat hij kan zien. Vervolgens ben ik beelden gaan verzamelen die aansluiten bij het thema. Aan de hand van pixels en de kleuren die de pixels hebben heb ik een beeld vormgegeven. Vervolgens heb ik uitgezocht hoe ik ervoor kan zorgen dat de beelden random worden getoond. Ook dit lukte mij, maar wel in een apart document. Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het nog steeds heel lastig vind om de codes met elkaar te combineren.
 
-Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten kreeg ik de feedback dat mijn idee heel leuk is, alleen de uitwerking nog niet voldoende was. Hier ben ik het helemaal mee eens, want het is een zooi. Na de les heb ik Danny even opgezocht en hij heeft mij heel fijn geholpen.
+Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten kreeg ik de feedback dat mijn idee heel leuk is, alleen de uitwerking nog niet voldoende was. Hier ben ik het helemaal mee eens, want het is een zooi. Na de les heb ik Danny even opgezocht en hij heeft mij heel fijn geholpen. Hij heeft mij geleerd dat ik gebruik kan maken van een array: een lijstje! Daarna heeft hij mij geleerd hoe ik ervoor kan zorgen dat de afbeeldingen worden opgeroepen aan de hand van deze array. 
 
 ## Week-6 en de rest
 
@@ -63,11 +63,3 @@ Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten
 * https://www.youtube.com/watch?v=1YjybCS4B2U
 * https://p5js.org/reference/
 * https://p5js.org/reference/#/p5/map
-
-
-
-## Bronnenlijst
-
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
