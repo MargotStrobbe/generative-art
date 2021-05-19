@@ -55,13 +55,14 @@ Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten
 ## Week-6 en de rest
 
 ## Week-7
-Bronnenlijst
-https://www.youtube.com/watch?v=me04ZrTJqWA
-https://www.youtube.com/watch?v=hxjEl-pun7o
-https://www.youtube.com/watch?v=x1rJJRVTpAI
-https://www.youtube.com/watch?v=1YjybCS4B2U
-https://p5js.org/reference/
-https://p5js.org/reference/#/p5/map
+
+# Bronnenlijst
+* https://www.youtube.com/watch?v=me04ZrTJqWA
+* https://www.youtube.com/watch?v=hxjEl-pun7o
+* https://www.youtube.com/watch?v=x1rJJRVTpAI
+* https://www.youtube.com/watch?v=1YjybCS4B2U
+* https://p5js.org/reference/
+* https://p5js.org/reference/#/p5/map
 
 
 
