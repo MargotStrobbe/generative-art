@@ -83,3 +83,9 @@ https://editor.p5js.org/MargotStrobbe/sketches/XQN7mnqSW
 * https://www.youtube.com/watch?v=1YjybCS4B2U
 * https://p5js.org/reference/
 * https://p5js.org/reference/#/p5/map
+* https://unsplash.com/photos/YxKBT84-nm0
+* https://www.pexels.com/nl-nl/foto/vrouw-draagt-3-d-zonnebril-op-verlichte-kamer-2825033/
+* https://www.pexels.com/nl-nl/foto/radio-city-music-hall-tijdens-de-nacht-3700369/
+* https://www.freepik.com/free-photo/interior-portrait-woman-vaporwave-style_13819261.htm
+* https://unsplash.com/photos/QWUCeS2qVoM
+* https://unsplash.com/photos/p0j-mE6mGo4
