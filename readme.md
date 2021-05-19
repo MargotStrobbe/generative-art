@@ -4,8 +4,11 @@
 **Naam:** Margot Strobbe
 
 **Klas:** vid-1B
+
 **Minor:** Visual Interface Design
+
 **Favoriete dier:** Mik met één oor
+
 **Startniveau:** Ik weet niet wat voor kleur mijn startniveau is, maar ik weet wel dat ik een beginnende nerd ben.
 
 # Concept
