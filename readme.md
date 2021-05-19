@@ -2,6 +2,7 @@
 
 ## Over
 **Naam:** Margot Strobbe
+
 **Klas:** vid-1B
 **Minor:** Visual Interface Design
 **Favoriete dier:** Mik met één oor
