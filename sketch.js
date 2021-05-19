@@ -78,7 +78,7 @@ function draw() {
   text('BY MARGOT',0 ,-20);
   textSize(15);
   fill('white');
-  text('Scroll down for fun' ,0 ,15);
+  text('Scroll down for fun' ,0 ,10);
   pop();
 
   /* Puntjes genereren */
