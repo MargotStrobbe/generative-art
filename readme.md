@@ -1,5 +1,3 @@
-<!-- Vergeet je niet de comments uit te zetten voordat je begint met typen? 💬 -->
-
 # Procesverslag
 
 ## Over
@@ -7,12 +5,16 @@
 * **Klas:** vid-1B
 * **Minor:** Visual Interface Design
 * **Favoriete dier:** Mik met één oor
-* **Startniveau:** blauw/rood/zwart
+* **Startniveau:** Ik weet niet wat voor kleur mijn start niveau is, maar ik weet we; dat ik nog nooit heb gecodeerd.
 
 ## Concept
+Ieder mens heeft meerdere eigenschappen, twee van mijn eigeschappen zijn lief en stoer. Ik ben eigenlijk altijd lief, maar niet altijd stoer. 
+Een leuk voorbeeld: 
+- Als ik aan tafel zit te schetsen, dan ben ik lief maar niet zo stoer. 
+- Als ik aan het rugby trainen ben, dan ben ik nog steeds lief, maar ook stoer. 
 
-`Beschrijf in het algemeen je concept van je project.`
-Ieder mens heeft meerdere eigenschappen, twee van mijn eigeschappen zijn lief, maar toch ook wel stoer. Op stijlen van vroeger ga ik best wel lekker, qua kleding maar ook kapsels. Daarom wil ik met mijn artwork gebruik maken van neon. Waarom? Omdat neon kan opvallen als je dat wilt, maar als je dat niet wilt dan hoeft het niet.
+Ik wil in mijn artwork gebruik maken van het feit dat ik mij in verschillende situaties ander kan gedragen. Vaak kan ik zelf bepalen hoe ik mij gedraag, maar niet altijd. 
+Daarnaast ga ik op stijlen van vroeger best wel lekker, denk hierbij aan kleding, kapsels, muziek en kunst. Dit wil ik graag meenemen in mijn artwork. Ik heb ervoor gekozen om dit te doen door gebruik te maken van neon. Waarom? Omdat ik neon associeer met de retro stijl die ik in gedachten heb. Daarnaast vind ik neon bij mijn eigenschappen passen, omdat het kan opvallen als je dat wilt, maar als je dat niet wilt dan hoeft het niet.
 
 ## Features
 
