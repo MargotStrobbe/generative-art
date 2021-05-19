@@ -21,11 +21,11 @@ Ik wil in mijn artwork gebruik maken van het feit dat ik mij in verschillende si
 # Features
 Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?
 
+
 # Onderzoek & inspiratie
 Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand? Door het beschrijven van mijn persoonlijke eigenschappen, hobby's en ambities ben ik tot mijn concept gekomen. Nadat ik mijn concept had bedacht ben ik op zoek gegaan naar visuals die mijn gedachten konden versterken. Ik heb dit gedaan door gebruik te maken van Pinterest. Op Pinterest heb ik veel verschillende voorbeelden van artworks gezien, waardoor ik steeds meer inspiratie kreeg. Daarnaast heb ik ontzettend veel gebruik gemaakt van de references van P5, Google en YouTube! Gelukkig zijn er heel veel designers die hun kunsten delen, zodat mensen zoals ik daar weer van kunnen leren!
 
 # Voortang
-Schrijf hier een klein logboekje met je voortgang per week.
 
 ## Week-1
 Ik ben begonnen met het bedenken van het concept. Ik heb een bord gemaakt op pinterest waarin ik alles wat ik vet vond m.b.t. mijn concept heb opgeslagen. https://sk.pinterest.com/margotstrobbe/generative-art/
@@ -61,7 +61,12 @@ Daarna heb ik samen met Danny gekeken naar de pixel die aan de hand van strokeWe
 Event.delta en map, leuk maar het lukte niet. Danny heeft mij uitgelegd dat ik door middel van console.log kan achterhalen wat er gebeurt als ik scroll. Ik had geen flauw idee wat ik daarmee kon doen, dus ik mocht in de laatste week nog even in gesprek met Danny. Hij heeft uiteindelijk geholpen met de pixels. Hij heeft ipv een map gebruik gemaakt van if en else en het werkt! Het leuke is ook dat ik het nu wel snap, na de door Danny gestuurde code, heb ik het zo kunnen aanpassen, dat het werkte zoals ik het wilde. 
 
 Toen Danny bezig was met mijn code (en eten), ben ik door gegaan met mijn artwork en heb ik mijn retrostijl nog meer tevoorschijn getoverd! Ik heb mijn artwork in een kader geplaatst, zodat de afbeeldingen te zien zijn op een LP hoes. Op de hoes zijn verschillende rondvliegende points te zien, de kleuren hiervan zijn random en geven daardoor een pixelachtige uitstraling. 
-Onder op de hoes staan letters en een aanwijzing voor de gebruiker. Danny heeft mij vervolgens nog geholpen met de pixels van de afbeelding op de juiste plaats te positioneren: aan de hand van transfrom! 
+Onder op de hoes staan letters en een aanwijzing voor de gebruiker. Danny heeft mij vervolgens nog geholpen met de pixels van de afbeelding op de juiste plaats te positioneren: aan de hand van transfrom! Na het laatste gesprek met Danny heb ik de laatste aanpassingen gedaan.
+
+# Het eindproduct
+Ik kan zeker zeggen dat ik heel trots ben op mijn ontwikkeling en het eindproduct!
+Via onderstaande link kun je mijn generative artwork zien!
+https://margotstrobbe.github.io/generative-art/
 
 
 # Bronnenlijst
