@@ -69,9 +69,11 @@ Onder op de hoes staan letters en een aanwijzing voor de gebruiker. Danny heeft 
 # Het eindproduct
 Ik kan zeker zeggen dat ik heel trots ben op mijn ontwikkeling en het eindproduct!
 Via onderstaande link kun je mijn generative artwork zien!
+
 https://margotstrobbe.github.io/generative-art/
 
 Via onderstaande link kun je de code via p5 zien!
+
 https://editor.p5js.org/MargotStrobbe/sketches/XQN7mnqSW
 
 
