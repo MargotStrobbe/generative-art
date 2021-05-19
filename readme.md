@@ -54,11 +54,15 @@ Deze week heb ik opnieuw mijn code geopend en ik heb geoefend met het de random 
 ## Week-5
 Deze week is het roer om gegaan. Ik liep enorm vast met mijn artwork, dus ik ben terug gegaan naar mijn concept. Ik verdwaalde in alle mogelijkheden en alle opties. Mijn doel is om gebruik te maken van neon kleuren en de gebruiker de mogelijkheid geven om zelf te bepalen hoeveel en wat hij kan zien. Vervolgens ben ik beelden gaan verzamelen die aansluiten bij het thema. Aan de hand van pixels en de kleuren die de pixels hebben heb ik een beeld vormgegeven. Vervolgens heb ik uitgezocht hoe ik ervoor kan zorgen dat de beelden random worden getoond. Ook dit lukte mij, maar wel in een apart document. Ik ben er nu achter gekomen dat ik de basics begrijp, maar dat ik het nog steeds heel lastig vind om de codes met elkaar te combineren.
 
-Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten kreeg ik de feedback dat mijn idee heel leuk is, alleen de uitwerking nog niet voldoende was. Hier ben ik het helemaal mee eens, want het is een zooi. Na de les heb ik Danny even opgezocht en hij heeft mij heel fijn geholpen. Hij heeft mij geleerd dat ik gebruik kan maken van een array: een lijstje! Daarna heeft hij mij geleerd hoe ik ervoor kan zorgen dat de afbeeldingen worden opgeroepen aan de hand van deze array. 
+Gelukkig waren wij deze week weer voor het eerst op school. Van mijn kladgenoten kreeg ik de feedback dat mijn idee heel leuk is, alleen de uitwerking nog niet voldoende was. Hier ben ik het helemaal mee eens, want het is een zooi. Na de les heb ik Danny even opgezocht en hij heeft mij heel fijn geholpen. Hij heeft mij geleerd dat ik gebruik kan maken van een array: een lijstje! Daarna heeft hij mij geleerd hoe ik ervoor kan zorgen dat de afbeeldingen worden opgeroepen aan de hand van deze array. Dit heb ik gedaan aan de hand van Math en door het aantal afbeeldingen af te ronden naar een heel getal. 
+Daarna heb ik samen met Danny gekeken naar de pixel die aan de hand van strokeWeight worden getoond voor de afbeelding. Ik wilde namelijk dat de pixels groter en kleiner worden bij het scrollen. Samen met Danny ben ik tot de conclusie gekomen dat ik dit even verder moest uitzoeken, het is mogelijk door gebruik te maken van event.delta en map.
 
 ## Week-6 en de rest
+Event.delta en map, leuk maar het lukte niet. Danny heeft mij uitgelegd dat ik door middel van console.log kan achterhalen wat er gebeurt als ik scroll. Ik had geen flauw idee wat ik daarmee kon doen, dus ik mocht in de laatste week nog even in gesprek met Danny. Hij heeft uiteindelijk geholpen met de pixels. Hij heeft ipv een map gebruik gemaakt van if en else en het werkt! Het leuke is ook dat ik het nu wel snap, na de door Danny gestuurde code, heb ik het zo kunnen aanpassen, dat het werkte zoals ik het wilde. 
 
-## Week-7
+Toen Danny bezig was met mijn code (en eten), ben ik door gegaan met mijn artwork en heb ik mijn retrostijl nog meer tevoorschijn getoverd! Ik heb mijn artwork in een kader geplaatst, zodat de afbeeldingen te zien zijn op een LP hoes. Op de hoes zijn verschillende rondvliegende points te zien, de kleuren hiervan zijn random en geven daardoor een pixelachtige uitstraling. 
+Onder op de hoes staan letters en een aanwijzing voor de gebruiker. Danny heeft mij vervolgens nog geholpen met de pixels van de afbeelding op de juiste plaats te positioneren: aan de hand van transfrom! 
+
 
 # Bronnenlijst
 * https://www.youtube.com/watch?v=me04ZrTJqWA
