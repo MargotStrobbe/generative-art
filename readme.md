@@ -22,7 +22,7 @@ Ik wil in mijn artwork gebruik maken van het feit dat ik mij in verschillende si
 # Features
 Het artwork is gebaseerd op neon kleuren. De achtergrond is een feestje, er zijn verschillende kleuren in de vorm van de draaiende LP hoes te zien.
 Op de hoes is iedere keer een andere foto te zien, dit wordt random bepaald bij het refreshen van de pagina. 
-Door te scrollen kan de gebruiker zelf bepalen hoeveel fun hij/zij kan zien. De strokes worden zwaarder waardoor de gebruiker de pixels van de afbeeldingen kan vergroten en verleinen! De intensiteit van het artwork wordt vergroot, maar zodra de gebruiker terug scrollt is hij terug bij het rustige beeld. Zo kan je zelf bepalen wat je wilt zien en ik welke mate. 
+Door te scrollen kan de gebruiker zelf bepalen hoeveel fun hij/zij kan zien. De strokes worden zwaarder waardoor de gebruiker de pixels van de afbeeldingen en de strokes van de draaiende hoezen kan vergroten en verleinen! De intensiteit van het artwork wordt vergroot, maar zodra de gebruiker terug scrollt is hij terug bij het rustige beeld. Zo kan je zelf bepalen wat je wilt zien en ik welke mate. Op de achtergond van de hoes zijn points te zien die random kleuren hebben en op random posities worden geplaatst, dit geeft een extra pixel effect. Als laatste heb ik gebruik gemaakt van tekst. Door meerder lagen over elkaar heen te plaatsten, lijkt het alsof de tekst diepte heeft. De onderste laag genereerd random kleuren, waardoor het effect van knipperend neonlicht naar boven komt.
 
 
 # Onderzoek & inspiratie
